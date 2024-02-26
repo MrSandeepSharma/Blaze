@@ -184,6 +184,8 @@ section {
   background-color: var(--clr-red);
   color: var(--clr-white);
   font-size: 16px;
+  text-align: center;
+  width: fit-content;
 }
 
 .homepage__hero__cta:focus {
@@ -233,6 +235,8 @@ section {
   padding: var(--padding);
   color: var(--clr-black);
   background-color: var(--clr-yellow);
+  text-align: center;
+  width: fit-content;
 }
 
 .homepage__feature {
