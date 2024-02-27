@@ -2,8 +2,9 @@
 
 Blazeio is a three page clone website created using `Reactjs` and `CSS`.
 
-[Original Website]("https://www.blaze.ai/")
-[My Version]("https#292017://blazeai.netlify.app/")
+* Original Website : https://www.blaze.ai/
+
+* My Version : https://blazeai.netlify.app/
 
 ## Website Preview
 ![Screenshot (7)](https://github.com/MrSandeepSharma/Blaze/assets/142038020/8563babf-ad5c-43ab-9597-fbfd5e221de5)
@@ -12,7 +13,11 @@ Blazeio is a three page clone website created using `Reactjs` and `CSS`.
 
 
 ## Useful Resources
-[Fevicon]("https://favicon.io/")
-[BEM Naming Convention]("https://getbem.com/")
-[Modern CSS Reset]("https://andy-bell.co.uk/a-modern-css-reset/")
-[React Icons]("https://react-icons.github.io/react-icons/")
+
+* Fevicon : https://favicon.io/ 
+
+* BEM Naming Convention : https://getbem.com/
+
+* Modern CSS Reset : https://andy-bell.co.uk/a-modern-css-reset/
+
+* React Icons : https://react-icons.github.io/react-icons/
