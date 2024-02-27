@@ -162,8 +162,8 @@ function Pricing() {
       <section className='pricing__plans'>
         {
           allPlans.map(plan => (
-            <div style={{backgroundColor: plan.color}} className='plan__container_wrapper'>
-              <div key={plan.alt} className='plan__container'>
+            <div key={plan.alt} style={{backgroundColor: plan.color}} className='plan__container_wrapper'>
+              <div className='plan__container'>
                 <img src={plan.type} alt={plan.alt} width="450" height="83" />
                 <div className="flex-container">
                   <p className="plan__price">{plan.price}</p>
@@ -177,7 +177,7 @@ function Pricing() {
                 <p className="plan__desc">{plan.desc}</p>
                 <ul>
                   {plan.includes.map(item => (
-                    <li className='flex-container list__item'>
+                    <li key={item.text} className='flex-container list__item'>
                       {item.icon}
                       <p>{item.text}</p>
                     </li>
